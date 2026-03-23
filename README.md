@@ -1,183 +1,142 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:1b2838,100:0a0a0f&height=200&section=header&text=Nawar%20El%20Zein&fontSize=56&fontColor=e8eaf0&fontAlignY=42&desc=backend%20engineer%20%E2%80%A2%20systems%20architect%20%E2%80%A2%20creative%20writer&descAlignY=68&descSize=15&descFontColor=8899aa&animation=fadeIn" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=64&duration=1&pause=999999&color=EEF0F5&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Nawar+El+Zein" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=64&duration=1&pause=999999&color=1a2535&center=true&vCenter=true&repeat=false&width=700&height=90&lines=Nawar+El+Zein" />
+</picture>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-*"I build systems the way I write — with intention, rhythm, and the quiet certainty that*
-*something beautiful can hold weight."*
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=7EB8D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Domain-Driven+Design+%E2%80%A2+Microservices+%E2%80%A2+Real-time+Systems;ASP.NET+Core+%E2%80%A2+Laravel+%E2%80%A2+Node.js+%E2%80%A2+React;distributed+systems+by+day+%E2%80%A2+stories+by+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3200&pause=900&color=4A6FA5&center=true&vCenter=true&repeat=true&width=680&height=28&lines=ASP.NET+Core+%C2%B7+Domain-Driven+Design;Microservices+%C2%B7+RabbitMQ+%C2%B7+Keycloak;Real-time+systems+via+SignalR;Laravel+%C2%B7+React+%C2%B7+Redis+%C2%B7+Docker;creative+writer+by+night)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                      SYSTEM IDENTITY                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  role       →  Backend Engineer                             ║
-║  origin     →  Beirut, Lebanon                              ║
-║  studies    →  CCE @ Antonine University  (2022 – 2027)     ║
-║  gpa        →  89.898 / 100                                 ║
-║  obsession  →  systems that stay standing when things fail  ║
-╚══════════════════════════════════════════════════════════════╝
+backend engineer  ·  beirut, lebanon  ·  cce @ antonine university
+building systems with intention and rhythm —
+distributed architectures that stay standing when correctness fails.
 ```
 
 ---
 
-## `< languages />`
+### `languages`
 
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-1a1a2e?style=for-the-badge&logo=csharp&logoColor=9cdcfe)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![PHP](https://img.shields.io/badge/PHP-1a1a2e?style=for-the-badge&logo=php&logoColor=8993be)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3572a5)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=00599c)
-
-</div>
+![C#](https://img.shields.io/badge/C%23-0d1424?style=flat-square&logo=csharp&logoColor=4a8fc5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1424?style=flat-square&logo=typescript&logoColor=4a8fc5)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1424?style=flat-square&logo=javascript&logoColor=7a9fc5)
+![PHP](https://img.shields.io/badge/PHP-0d1424?style=flat-square&logo=php&logoColor=7a9fc5)
+![Python](https://img.shields.io/badge/Python-0d1424?style=flat-square&logo=python&logoColor=7a9fc5)
+![SQL](https://img.shields.io/badge/SQL-0d1424?style=flat-square&logo=postgresql&logoColor=7a9fc5)
+![Java](https://img.shields.io/badge/Java-0d1424?style=flat-square&logo=openjdk&logoColor=7a9fc5)
+![C++](https://img.shields.io/badge/C++-0d1424?style=flat-square&logo=cplusplus&logoColor=7a9fc5)
 
 ---
 
-## `< backend />`
+### `backend`
 
-<div align="center">
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=512bd4)
-![Laravel](https://img.shields.io/badge/Laravel-1a1a2e?style=for-the-badge&logo=laravel&logoColor=ff2d20)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=ffffff)
-![SignalR](https://img.shields.io/badge/SignalR-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=7b68ee)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a2e?style=for-the-badge&logo=rabbitmq&logoColor=ff6600)
-![Keycloak](https://img.shields.io/badge/Keycloak-1a1a2e?style=for-the-badge&logo=keycloak&logoColor=4d9fe0)
-![Hangfire](https://img.shields.io/badge/Hangfire-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=a8c4e0)
-
-</div>
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0d1424?style=flat-square&logo=dotnet&logoColor=4a8fc5)
+![Laravel](https://img.shields.io/badge/Laravel-0d1424?style=flat-square&logo=laravel&logoColor=4a8fc5)
+![Node.js](https://img.shields.io/badge/Node.js-0d1424?style=flat-square&logo=nodedotjs&logoColor=7a9fc5)
+![Express](https://img.shields.io/badge/Express-0d1424?style=flat-square&logo=express&logoColor=7a9fc5)
+![SignalR](https://img.shields.io/badge/SignalR-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1424?style=flat-square&logo=rabbitmq&logoColor=7a9fc5)
+![Keycloak](https://img.shields.io/badge/Keycloak-0d1424?style=flat-square&logo=keycloak&logoColor=7a9fc5)
+![Hangfire](https://img.shields.io/badge/Hangfire-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
+![JWT](https://img.shields.io/badge/JWT-0d1424?style=flat-square&logo=jsonwebtokens&logoColor=7a9fc5)
+![Serilog](https://img.shields.io/badge/Serilog_·_Seq-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
 
 ---
 
-## `< frontend />`
+### `frontend · data · infra`
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Angular](https://img.shields.io/badge/Angular-1a1a2e?style=for-the-badge&logo=angular&logoColor=dd0031)
-![Material UI](https://img.shields.io/badge/Material_UI-1a1a2e?style=for-the-badge&logo=mui&logoColor=007fff)
-
-</div>
-
----
-
-## `< data & infra />`
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=336791)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a2e?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479a1)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47a248)
-![Redis](https://img.shields.io/badge/Redis-1a1a2e?style=for-the-badge&logo=redis&logoColor=dc382d)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=f05032)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-1a1a2e?style=for-the-badge&logo=azuredevops&logoColor=0078d7)
-
-</div>
+![React](https://img.shields.io/badge/React-0d1424?style=flat-square&logo=react&logoColor=4a8fc5)
+![Angular](https://img.shields.io/badge/Angular-0d1424?style=flat-square&logo=angular&logoColor=7a9fc5)
+![Material UI](https://img.shields.io/badge/Material_UI-0d1424?style=flat-square&logo=mui&logoColor=7a9fc5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1424?style=flat-square&logo=postgresql&logoColor=4a8fc5)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0d1424?style=flat-square&logo=microsoftsqlserver&logoColor=7a9fc5)
+![MySQL](https://img.shields.io/badge/MySQL-0d1424?style=flat-square&logo=mysql&logoColor=7a9fc5)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1424?style=flat-square&logo=mongodb&logoColor=7a9fc5)
+![Redis](https://img.shields.io/badge/Redis-0d1424?style=flat-square&logo=redis&logoColor=4a8fc5)
+![Docker](https://img.shields.io/badge/Docker-0d1424?style=flat-square&logo=docker&logoColor=4a8fc5)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0d1424?style=flat-square&logo=azuredevops&logoColor=7a9fc5)
+![Git](https://img.shields.io/badge/Git-0d1424?style=flat-square&logo=git&logoColor=7a9fc5)
 
 ---
 
-## `< architecture />`
-
-<div align="center">
+### `architecture`
 
 ```
-  Domain-Driven Design          ██████████████████████  DDD bounded contexts
-  Microservices Architecture    █████████████████████░  distributed services
-  Event-Driven Systems          ████████████████████░░  async messaging
-  Real-time Communication       ██████████████████████  live pipelines
-  Layered Architecture          ██████████████████████  clean separation
-  Security & AuthZ              █████████████████████░  RBAC · ABAC · JWT
+Domain-Driven Design          ████████████████████████  97
+Microservices                 ██████████████████████░░  93
+Event-Driven Systems          █████████████████████░░░  88
+Real-time Communication       ████████████████████████  96
+Layered Architecture          ████████████████████████  98
+Security & AuthZ              █████████████████████░░░  91
 ```
 
-</div>
+---
+
+*a system is a sentence —*
+*every service a word,*
+*every boundary a pause,*
+*every message the breath between.*
+*written to be read, deployed to remain.*
 
 ---
 
-## `< activity />`
+### `activity`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-loves-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&icon_color=7eb8d4&title_color=e8eaf0&text_color=8899aa&ring_color=3d5a80" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-loves-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=e8eaf0&text_color=8899aa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-loves-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1424&icon_color=4a6fa5&title_color=c8cfe0&text_color=5a7a9a&ring_color=2a4a7a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-loves-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1424&title_color=c8cfe0&text_color=5a7a9a&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-loves-code&theme=github-dark-blue&hide_border=true&background=0a0a0f&ring=3d5a80&fire=7eb8d4&currStreakLabel=e8eaf0&sideLabels=8899aa&dates=8899aa&currStreakNum=e8eaf0&sideNums=e8eaf0" />
-
-</div>
-
----
-
-## `< contribution topology />`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/main/profile-3d-contrib/profile-night-green.svg" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-loves-code&theme=github-dark-blue&hide_border=true&background=0d1424&ring=2a4a7a&fire=4a6fa5&currStreakLabel=c8cfe0&sideLabels=5a7a9a&dates=3d5570&currStreakNum=c8cfe0&sideNums=8aa5c5" />
 
 </div>
 
 ---
 
-## `< behavioral trace />`
+### `contribution topology`
+
+<div align="center">
+
+<img width="680" src="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/main/profile-3d-contrib/profile-night-green.svg" />
+
+</div>
+
+---
+
+### `behavioral trace`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/output/github-snake.svg" />
+  <img width="680" src="https://raw.githubusercontent.com/dev-loves-code/dev-loves-code/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-```
-a system is a sentence.
-every service a word,
-every boundary a pause,
-every message the breath between —
-written to be read,
-deployed to remain.
-```
-
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=7eb8d4)](https://linkedin.com/in/nawarelzein)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=e8eaf0)](https://github.com/dev-loves-code)
-[![Email](https://img.shields.io/badge/Email-0a0a0f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:nawarelzein@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1424?style=flat-square&logo=linkedin&logoColor=4a8fc5)](https://linkedin.com/in/nawarelzein)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1424?style=flat-square&logo=github&logoColor=c8cfe0)](https://github.com/dev-loves-code)
+&nbsp;
+[![Email](https://img.shields.io/badge/nawarelzein%40gmail.com-0d1424?style=flat-square&logo=gmail&logoColor=7a9fc5)](mailto:nawarelzein@gmail.com)
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1b2838,60:0d1b2a,100:0a0a0f&height=120&section=footer&animation=fadeIn" />
+`CCE · Antonine University · GPA 89.898 · 2022 – 2027`
 
 </div>
