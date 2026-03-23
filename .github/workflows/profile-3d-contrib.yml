@@ -5,6 +5,9 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -13,15 +16,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          persist-credentials: true
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: dev-loves-code
-          SETTING_JSON: |
-            {
-              "username": "dev-loves-code",
-              "type": "profile-night-green"
-            }
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
