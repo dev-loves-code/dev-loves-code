@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3200&pause=900&color=4A6FA5&center=true&vCenter=true&repeat=true&width=680&height=28&lines=ASP.NET+Core+%C2%B7+Domain-Driven+Design;Microservices+%C2%B7+RabbitMQ+%C2%B7+Keycloak;Real-time+systems+via+SignalR;Laravel+%C2%B7+React+%C2%B7+Redis+%C2%B7+Docker;creative+writer+by+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3200&pause=900&color=4A6FA5&center=true&vCenter=true&repeat=true&width=680&height=28&lines=ASP.NET+Core+%C2%B7+Domain-Driven+Design;Microservices+%C2%B7+RabbitMQ+%C2%B7+Keycloak;Real-time+systems+via+SignalR+%26+WebSockets;Laravel+%C2%B7+React+%C2%B7+Redis+%C2%B7+Docker;creative+writer+by+night)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,20 +40,34 @@ distributed architectures that stay standing when correctness fails.
 ![Laravel](https://img.shields.io/badge/Laravel-0d1424?style=flat-square&logo=laravel&logoColor=4a8fc5)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1424?style=flat-square&logo=nodedotjs&logoColor=7a9fc5)
 ![Express](https://img.shields.io/badge/Express-0d1424?style=flat-square&logo=express&logoColor=7a9fc5)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1424?style=flat-square&logo=fastapi&logoColor=7a9fc5)
+![gRPC](https://img.shields.io/badge/gRPC-0d1424?style=flat-square&logo=grpc&logoColor=7a9fc5)
+![WebSockets](https://img.shields.io/badge/WebSockets-0d1424?style=flat-square&logo=socket.io&logoColor=7a9fc5)
 ![SignalR](https://img.shields.io/badge/SignalR-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
+![Reverb](https://img.shields.io/badge/Reverb-0d1424?style=flat-square&logo=laravel&logoColor=7a9fc5)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1424?style=flat-square&logo=rabbitmq&logoColor=7a9fc5)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0d1424?style=flat-square&logo=keycloak&logoColor=7a9fc5)
 ![Hangfire](https://img.shields.io/badge/Hangfire-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
 ![JWT](https://img.shields.io/badge/JWT-0d1424?style=flat-square&logo=jsonwebtokens&logoColor=7a9fc5)
+![Swagger](https://img.shields.io/badge/Swagger-0d1424?style=flat-square&logo=swagger&logoColor=7a9fc5)
 ![Serilog](https://img.shields.io/badge/Serilog_·_Seq-0d1424?style=flat-square&logo=dotnet&logoColor=7a9fc5)
 
 ---
 
-### `frontend · data · infra`
+### `frontend`
 
 ![React](https://img.shields.io/badge/React-0d1424?style=flat-square&logo=react&logoColor=4a8fc5)
 ![Angular](https://img.shields.io/badge/Angular-0d1424?style=flat-square&logo=angular&logoColor=7a9fc5)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1424?style=flat-square&logo=typescript&logoColor=7a9fc5)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1424?style=flat-square&logo=tailwindcss&logoColor=4a8fc5)
 ![Material UI](https://img.shields.io/badge/Material_UI-0d1424?style=flat-square&logo=mui&logoColor=7a9fc5)
+![HTML5](https://img.shields.io/badge/HTML5-0d1424?style=flat-square&logo=html5&logoColor=7a9fc5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1424?style=flat-square&logo=css3&logoColor=7a9fc5)
+
+---
+
+### `data & infra`
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1424?style=flat-square&logo=postgresql&logoColor=4a8fc5)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0d1424?style=flat-square&logo=microsoftsqlserver&logoColor=7a9fc5)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1424?style=flat-square&logo=mysql&logoColor=7a9fc5)
@@ -62,6 +76,30 @@ distributed architectures that stay standing when correctness fails.
 ![Docker](https://img.shields.io/badge/Docker-0d1424?style=flat-square&logo=docker&logoColor=4a8fc5)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0d1424?style=flat-square&logo=azuredevops&logoColor=7a9fc5)
 ![Git](https://img.shields.io/badge/Git-0d1424?style=flat-square&logo=git&logoColor=7a9fc5)
+
+---
+
+### `security`
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1424?style=flat-square&logo=wireshark&logoColor=4a8fc5)
+![Suricata](https://img.shields.io/badge/Suricata-0d1424?style=flat-square&logo=suricata&logoColor=7a9fc5)
+![Nmap](https://img.shields.io/badge/Nmap-0d1424?style=flat-square&logo=nmap&logoColor=7a9fc5)
+![Scapy](https://img.shields.io/badge/Scapy-0d1424?style=flat-square&logo=python&logoColor=7a9fc5)
+![TLS/HTTPS](https://img.shields.io/badge/TLS_%2F_HTTPS_Analysis-0d1424?style=flat-square&logo=letsencrypt&logoColor=7a9fc5)
+![PCAP](https://img.shields.io/badge/PCAP_Analysis-0d1424?style=flat-square&logo=wireshark&logoColor=7a9fc5)
+![MITM](https://img.shields.io/badge/MITM_Interception-0d1424?style=flat-square&logo=hackthebox&logoColor=7a9fc5)
+![SSH Brute-force](https://img.shields.io/badge/SSH_Brute--force_Simulation-0d1424?style=flat-square&logo=gnubash&logoColor=7a9fc5)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1424?style=flat-square&logo=metasploit&logoColor=4a8fc5)
+![DVWA](https://img.shields.io/badge/DVWA-0d1424?style=flat-square&logo=hackthebox&logoColor=7a9fc5)
+![Oracle Label Security](https://img.shields.io/badge/Oracle®_Label_Security-0d1424?style=flat-square&logo=oracle&logoColor=7a9fc5)
+
+---
+
+### `design`
+
+![Figma](https://img.shields.io/badge/Figma-0d1424?style=flat-square&logo=figma&logoColor=4a8fc5)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d1424?style=flat-square&logo=adobephotoshop&logoColor=7a9fc5)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d1424?style=flat-square&logo=adobeillustrator&logoColor=7a9fc5)
 
 ---
 
@@ -129,7 +167,7 @@ Security & AuthZ              ████████████████�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1424?style=flat-square&logo=linkedin&logoColor=4a8fc5)](https://linkedin.com/in/nawarelzein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1424?style=flat-square&logo=linkedin&logoColor=4a8fc5)](https://www.linkedin.com/in/nawar-el-zein-83596b244/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1424?style=flat-square&logo=github&logoColor=c8cfe0)](https://github.com/dev-loves-code)
 &nbsp;
@@ -137,6 +175,6 @@ Security & AuthZ              ████████████████�
 
 <br/>
 
-`CCE · Antonine University · GPA 89.898 · 2022 – 2027`
+`CCE · Antonine University · 2022 – 2027`
 
 </div>
