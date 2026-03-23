@@ -14,7 +14,7 @@
 name:        Nawar El Zein
 location:    Beirut, Lebanon
 role:        Backend Engineer (Full-Stack capable)
-university:  Antonine University — CCE, GPA 89.898
+university:  Antonine University — CCE
 focus:       Microservices · DDD · Real-time · Security
 available:   Open to internships & collaborations
 ```
